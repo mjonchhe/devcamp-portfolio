@@ -17,4 +17,4 @@
 .byebug_history
 
 # don't submit my secret
-/config/secret.yml
+/config/secrets.yml
