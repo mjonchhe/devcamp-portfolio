@@ -62,9 +62,11 @@ gem 'bootstrap', '~> 4.3.1'
 gem 'test_devcamp_view_tool', git: 'https://github.com/mjonchhe/test_devcamp_view_tool'
 
 gem 'petergate', '~> 1.7'
-
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
-
 gem 'kaminari', '~> 1.2'
-
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
+gem 'carrierwave', '~> 1.0'
+gem 'mini_magick', '~> 4.6'
+gem 'carrierwave-aws', '~> 1.0', '>= 1.0.2'
+gem 'dotenv-rails', '~> 2.1', '>= 2.1.2'
+
